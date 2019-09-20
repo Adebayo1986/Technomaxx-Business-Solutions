@@ -1,2 +1,2 @@
 # Technomaxx-Business-Solutions
-Software Developer &amp; Testing
+Software Developer &amp; Tester
