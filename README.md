@@ -1,2 +1,2 @@
-# Technomaxx-Business-Solutions
+# Technomaxx
 Software Developer &amp; Tester
